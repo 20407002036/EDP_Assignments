@@ -1,0 +1,43 @@
+C:\Users\GKY\source\repos\SIS-M\SIS-M\obj\Debug\SIS-M.vbproj.AssemblyReference.cache
+C:\Users\GKY\source\repos\SIS-M\SIS-M\obj\Debug\SIS_M.Dashboard.resources
+C:\Users\GKY\source\repos\SIS-M\SIS-M\obj\Debug\SIS_M.Login.resources
+C:\Users\GKY\source\repos\SIS-M\SIS-M\obj\Debug\SIS_M.Resources.resources
+C:\Users\GKY\source\repos\SIS-M\SIS-M\obj\Debug\SIS_M.Register.resources
+C:\Users\GKY\source\repos\SIS-M\SIS-M\obj\Debug\SIS-M.vbproj.GenerateResource.cache
+C:\Users\GKY\source\repos\SIS-M\SIS-M\obj\Debug\SIS-M.vbproj.CoreCompileInputs.cache
+C:\Users\GKY\source\repos\SIS-M\SIS-M\bin\Debug\SIS-M.exe.config
+C:\Users\GKY\source\repos\SIS-M\SIS-M\bin\Debug\SIS-M.exe
+C:\Users\GKY\source\repos\SIS-M\SIS-M\bin\Debug\SIS-M.pdb
+C:\Users\GKY\source\repos\SIS-M\SIS-M\bin\Debug\SIS-M.xml
+C:\Users\GKY\source\repos\SIS-M\SIS-M\obj\Debug\SIS-M.exe
+C:\Users\GKY\source\repos\SIS-M\SIS-M\obj\Debug\SIS-M.xml
+C:\Users\GKY\source\repos\SIS-M\SIS-M\obj\Debug\SIS-M.pdb
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\bin\Debug\SIS-M.exe.config
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\bin\Debug\SIS-M.exe
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\bin\Debug\SIS-M.pdb
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\bin\Debug\SIS-M.xml
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS_M.Dashboard.resources
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS_M.Login.resources
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS_M.Resources.resources
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS_M.Register.resources
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.exe
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.xml
+C:\Users\user\Desktop\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.pdb
+D:\group 2 edp\SIS-M\SIS-M\bin\Debug\SIS-M.exe.config
+D:\group 2 edp\SIS-M\SIS-M\bin\Debug\SIS-M.exe
+D:\group 2 edp\SIS-M\SIS-M\bin\Debug\SIS-M.pdb
+D:\group 2 edp\SIS-M\SIS-M\bin\Debug\SIS-M.xml
+D:\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.vbproj.AssemblyReference.cache
+D:\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.vbproj.SuggestedBindingRedirects.cache
+D:\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS_M.Dashboard.resources
+D:\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS_M.Login.resources
+D:\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS_M.Resources.resources
+D:\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS_M.Register.resources
+D:\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.vbproj.GenerateResource.cache
+D:\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.vbproj.CoreCompileInputs.cache
+D:\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.exe
+D:\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.xml
+D:\group 2 edp\SIS-M\SIS-M\obj\Debug\SIS-M.pdb
