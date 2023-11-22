@@ -6,3 +6,6 @@ catherine:catherine:catherine
 derick:githongo:dg30
 Gideon Yebei:Yebei:gy40
 Solomon:KyoBenimaru:123456
+Sam:Sam12:123asd
+Noel:Noni:123asd
+John:John:123asd

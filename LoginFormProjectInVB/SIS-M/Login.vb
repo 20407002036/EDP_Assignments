@@ -1,15 +1,27 @@
-﻿Imports System.IO
+﻿Imports System.Data.SqlClient
+Imports System.IO
 Public Class Login
     Private Sub btnLogin_Click(sender As Object, e As EventArgs) Handles btnLogin.Click
 
         Dim username As String = txtUsername.Text
         Dim password As String = txtPassword.Text
 
+        Dim con As SqlConnection = New SqlConnection("Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\hp\Documents\LoginData.mdf;Integrated Security=True;Connect Timeout=30")
+
+        Dim cmd As SqlCommand = New SqlCommand("select * from RegisterTable", con)
+        Dim a As New SqlDataAdapter(cmd)
+        Dim dt As New DataTable
+        a.Fill(dt)
+
+
         If Not String.IsNullOrEmpty(username) AndAlso Not String.IsNullOrEmpty(password) Then
             ' Check if the user exists and the password matches
-            If UserExists(username, password) Then
+            con.Open()
+            ' If UserExists(username, password) Then
+            If cmd.ExecuteNonQuery Then
                 MessageBox.Show("Login successful.")
                 ClearFields()
+                con.Close()
 
                 ' Open the dashboard form and pass user data
                 Dim dashboardForm As New Dashboard(username, password)
